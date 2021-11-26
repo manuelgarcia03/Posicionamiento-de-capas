@@ -1,0 +1,32 @@
+ div p { 
+    border-color: #4D0084;
+    border: 2px solid;
+    background-color: cyan;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+div {
+    position: absolute;
+}
+
+
+#d1 {
+   left: 150px; 
+}
+
+#d2 {
+    left: 300px;
+}
+
+.d2 {
+    left: 450px;
+}
+
+.d3 {
+    left: 600px;
+}
+
+
+
